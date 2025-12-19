@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/newenglishtravel/', // 👈 ВОТ ЭТО ОБЯЗАТЕЛЬНО
+  base: '/Newenglishtravel/', // 👈 ВОТ ЭТО ОБЯЗАТЕЛЬНО
   plugins: [
     react(),
     tailwindcss(),
